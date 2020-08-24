@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [UPDATE: VS Code July 2020 Stable Release | Settings Sync | Browser Debugging](https://www.youtube.com/)
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com)
+- [HOW TO DIFFERENTIATE BETWEEN REAL & FAKE](https://www.youtube.com/watch?v=i9HepFjjSFs)
+- [CARDING | 1 LAKH UC FROM CARDING ??](https://www.youtube.com/watch?v=Vv7lFsGYQcw)
+- [THIS COURSES CAN HELP YOU TO MAKE UPTO 1 LAKH A MONTH?](https://www.youtube.com/watch?v=Nk3pl5fbgF4)
+- [IMAGE | HOW TO PERFORM IMAGE REVERSE ENGINEERING !](https://www.youtube.com/watch?v=Yq1FBDncPs0)
+- [HAX INDIA | CC OTP BYPASS??](https://www.youtube.com/watch?v=OLNeP9QC0QU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
