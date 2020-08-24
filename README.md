@@ -58,7 +58,7 @@
 - [HAX INDIA | CC OTP BYPASS??](https://www.youtube.com/watch?v=OLNeP9QC0QU)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/)
+➡️ [more videos...](https://www.youtube.com/channel/UCUSu566zGHR7biCPJqVQ-8g)
 
 ---
 
