@@ -1,6 +1,6 @@
 ### Hi there, I'm Hacking Father - aka [Whoami][website] 👋
 
-[![Website](https://img.shields.io/website?label=Evilarmy.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCUSu566zGHR7biCPJqVQ-8g)
+[![Website](https://img.shields.io/website?label=Evilarmy.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://evilarmy.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HackingFather?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hackingfather)
 
 ## I'm a Hacker, Cracker, Developer, and Teacher!
@@ -98,7 +98,7 @@
 
 [website]: https://Evilarmy.in
 [twitter]: https://twitter.com/Hackingfather
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCUSu566zGHR7biCPJqVQ-8g
 [instagram]: https://instagram.com/hackingfather
 [linkedin]: https://linkedin.com/in/
 [webdevplaylist]: https://www.youtube.com/
