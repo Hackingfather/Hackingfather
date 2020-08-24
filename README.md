@@ -65,11 +65,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://evilarmy.in/index.php)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://evilarmy.in/index.php)
-- [Regular Expressions (RegEx) Crash Course](https://evilarmy.in/index.php)
-- [Emmet Part 2 - Advanced](https://evilarmy.in/index.php)
-- [Deno 1.0 Released! (Easy) REST API Example](https://evilarmy.in/index.php)
+- [Udemy - SQL & Database Design A-Z Learn MS SQL Server + PostgreSQL](https://evilarmy.in/index.php?threads/udemy-sql-database-design-a-z-learn-ms-sql-server-postgresql.1224/)
+- [Complete Ethical Hacking Course Free](https://evilarmy.in/index.php?threads/complete-ethical-hacking-course-free.1216/)
+- [OSCP full course Penetration Testing with Kali Linux](https://evilarmy.in/index.php?threads/oscp-full-course-penetration-testing-with-kali-linux.1193/)
+- [Redroom or leaks video .onion site for Tor user](https://evilarmy.in/index.php?threads/redroom-or-leaks-video-onion-site-for-tor-user.1202/)
+- [How To Hack Android Smartphone](https://evilarmy.in/index.php?threads/how-to-hack-android-smartphone.1127/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://Evilarmy.in)
