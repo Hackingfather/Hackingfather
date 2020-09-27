@@ -1,7 +1,7 @@
 ### Hi there, I'm Hacking Father - aka [Whoami][website] 👋
 
 [![Website](https://img.shields.io/website?label=Evilarmy.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://evilarmy.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/HackingFather?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hackingfather)
+[![Twitter Follow](https://img.shields.io/instagram/follow/HackingFather?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/hackingfather)
 
 ## I'm a Hacker, Cracker, Developer, and Teacher!
 
